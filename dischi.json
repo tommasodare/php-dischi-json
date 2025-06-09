@@ -33,5 +33,26 @@
         "coverUrl": "https://upload.wikimedia.org/wikipedia/en/6/69/ImagineCover.jpg",
         "anno": 1971,
         "genere": "Soft Rock"
+    },
+    {
+        "titolo": "Back to Black",
+        "artista": "Amy Winehouse",
+        "coverUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Amy_Winehouse_-_Back_to_Black_%28album%29.png/250px-Amy_Winehouse_-_Back_to_Black_%28album%29.png",
+        "anno": 2006,
+        "genere": "Soul"
+    },
+    {
+        "titolo": "Random Access Memories",
+        "artista": "Daft Punk",
+        "coverUrl": "https://cdn-images.dzcdn.net/images/cover/311bba0fc112d15f72c8b5a65f0456c1/0x1900-000000-80-0-0.jpg",
+        "anno": 2013,
+        "genere": "Electronic"
+    },
+    {
+        "titolo": "The Dark Side of the Moon",
+        "artista": "Pink Floyd",
+        "coverUrl": "https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png",
+        "anno": 1973,
+        "genere": "Progressive Rock"
     }
 ]

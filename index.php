@@ -3,7 +3,7 @@
 $json_text = file_get_contents('dischi.json');
 $albums = json_decode($json_text, true);
 
-var_dump($albums);
+/* var_dump($albums); */
 
 
 ?>
@@ -20,6 +20,8 @@ var_dump($albums);
 </head>
 
 <body>
+
+    <h1 class="text-center p-3">Albums</h1>
 
     <container class="fluid d-flex flex-wrap justify-content-center gap-4 my-4">
 
