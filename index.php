@@ -23,7 +23,7 @@ $albums = json_decode($json_text, true);
 
     <h1 class="text-center p-3">Albums</h1>
 
-    <container class="fluid d-flex flex-wrap justify-content-center gap-4 my-4">
+    <div class="container-fluid d-flex flex-wrap justify-content-center gap-4 my-4">
 
         <?php
 
@@ -45,7 +45,25 @@ $albums = json_decode($json_text, true);
         <?php } ?>
 
 
-    </container>
+    </div>
+
+    <div class="container d-flex flex-column align-items-center my-4">
+        <form action="" method="post">
+            <label for="" class="form-label">Titolo</label>
+            <input type="text" name="titolo" placeholder="title" class="form-control mb-2">
+            <label for="" class="form-label">Artista</label>
+            <input type="text" name="artista" placeholder="artist" class="form-control mb-2">
+            <label for="" class="form-label">Cover URL</label>
+            <input type="text" name="coverUrl" placeholder="cover_url" class="form-control mb-2">
+            <label for="" class="form-label">Anno</label>
+            <input type="number" name="anno" min="1950" placeholder="year" class="form-control mb-2">
+            <label for="" class="form-label">Genere</label>
+            <input type="text" name="genere" placeholder="gener" class="form-control mb-2">
+
+            <button class="btn btn-primary">Aggiungi Album</button>
+        </form>
+    </div>
+
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js" integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO" crossorigin="anonymous"></script>
 </body>
