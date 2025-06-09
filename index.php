@@ -48,17 +48,17 @@ $albums = json_decode($json_text, true);
     </div>
 
     <div class="container d-flex flex-column align-items-center my-4">
-        <form action="" method="post">
+        <form action="index.php" method="post">
             <label for="" class="form-label">Titolo</label>
-            <input type="text" name="titolo" placeholder="title" class="form-control mb-2">
+            <input type="text" name="titolo" class="form-control mb-2">
             <label for="" class="form-label">Artista</label>
-            <input type="text" name="artista" placeholder="artist" class="form-control mb-2">
+            <input type="text" name="artista" class="form-control mb-2">
             <label for="" class="form-label">Cover URL</label>
-            <input type="text" name="coverUrl" placeholder="cover_url" class="form-control mb-2">
+            <input type="text" name="coverUrl" class="form-control mb-2">
             <label for="" class="form-label">Anno</label>
-            <input type="number" name="anno" min="1950" placeholder="year" class="form-control mb-2">
+            <input type="number" name="anno" min="1950" class="form-control mb-2">
             <label for="" class="form-label">Genere</label>
-            <input type="text" name="genere" placeholder="gener" class="form-control mb-2">
+            <input type="text" name="genere" class="form-control mb-2">
 
             <button class="btn btn-primary">Aggiungi Album</button>
         </form>

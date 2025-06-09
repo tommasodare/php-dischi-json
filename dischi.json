@@ -2,56 +2,56 @@
     {
         "titolo": "A Night at the Opera",
         "artista": "Queen",
-        "coverUrl": "https://e.snmc.io/i/1200/s/9aeef0d2d6772c8f55f648d18cebd488/6019602",
+        "coverUrl": "https:\/\/e.snmc.io\/i\/1200\/s\/9aeef0d2d6772c8f55f648d18cebd488\/6019602",
         "anno": 1975,
         "genere": "Rock"
     },
     {
         "titolo": "Thriller",
         "artista": "Michael Jackson",
-        "coverUrl": "https://www.artofdesignonline.com/uploads/1/1/7/1/117189571/thriller_orig.jpg",
+        "coverUrl": "https:\/\/www.artofdesignonline.com\/uploads\/1\/1\/7\/1\/117189571\/thriller_orig.jpg",
         "anno": 1982,
         "genere": "Pop"
     },
     {
         "titolo": "Nevermind",
         "artista": "Nirvana",
-        "coverUrl": "https://images.prismic.io/milanote/df7eeb83a07162b45ac2e882cac055de9411054a_cover.jpg?auto=compress,format",
+        "coverUrl": "https:\/\/images.prismic.io\/milanote\/df7eeb83a07162b45ac2e882cac055de9411054a_cover.jpg?auto=compress,format",
         "anno": 1991,
         "genere": "Grunge"
     },
     {
         "titolo": "Future Nostalgia",
         "artista": "Dua Lipa",
-        "coverUrl": "https://m.media-amazon.com/images/I/71VQFsqlPJL._UF1000,1000_QL80_.jpg",
+        "coverUrl": "https:\/\/m.media-amazon.com\/images\/I\/71VQFsqlPJL._UF1000,1000_QL80_.jpg",
         "anno": 2020,
         "genere": "Pop"
     },
     {
         "titolo": "Imagine",
         "artista": "John Lennon",
-        "coverUrl": "https://upload.wikimedia.org/wikipedia/en/6/69/ImagineCover.jpg",
+        "coverUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/6\/69\/ImagineCover.jpg",
         "anno": 1971,
         "genere": "Soft Rock"
     },
     {
         "titolo": "Back to Black",
         "artista": "Amy Winehouse",
-        "coverUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Amy_Winehouse_-_Back_to_Black_%28album%29.png/250px-Amy_Winehouse_-_Back_to_Black_%28album%29.png",
+        "coverUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/6\/67\/Amy_Winehouse_-_Back_to_Black_%28album%29.png\/250px-Amy_Winehouse_-_Back_to_Black_%28album%29.png",
         "anno": 2006,
         "genere": "Soul"
     },
     {
         "titolo": "Random Access Memories",
         "artista": "Daft Punk",
-        "coverUrl": "https://cdn-images.dzcdn.net/images/cover/311bba0fc112d15f72c8b5a65f0456c1/0x1900-000000-80-0-0.jpg",
+        "coverUrl": "https:\/\/cdn-images.dzcdn.net\/images\/cover\/311bba0fc112d15f72c8b5a65f0456c1\/0x1900-000000-80-0-0.jpg",
         "anno": 2013,
         "genere": "Electronic"
     },
     {
         "titolo": "The Dark Side of the Moon",
         "artista": "Pink Floyd",
-        "coverUrl": "https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png",
+        "coverUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/3b\/Dark_Side_of_the_Moon.png",
         "anno": 1973,
         "genere": "Progressive Rock"
     }
