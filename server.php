@@ -19,7 +19,7 @@ $new_album = [
 // Aggiungiamo il nuovo album all'array degli album
 $albums[] = $new_album;
 
-file_put_contents("dischi.json", json_encode($albums));
+file_put_contents("dischi.json", json_encode($albums, JSON_PRETTY_PRINT));
 header("Location: index.php");
 exit;
 

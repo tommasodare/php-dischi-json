@@ -3,9 +3,6 @@
 $json_text = file_get_contents('dischi.json');
 $albums = json_decode($json_text, true);
 
-/* var_dump($albums); */
-
-
 ?>
 
 
@@ -48,7 +45,7 @@ $albums = json_decode($json_text, true);
     </div>
 
     <div class="container d-flex flex-column align-items-center my-4">
-        <form action="index.php" method="post">
+        <form action="server.php" method="post">
             <label for="" class="form-label">Titolo</label>
             <input type="text" name="titolo" class="form-control mb-2">
             <label for="" class="form-label">Artista</label>
